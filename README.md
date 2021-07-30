@@ -1,4 +1,4 @@
-# Ardunio<br/>
+# Arduino<br/>
 ![Ardunio](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1024px-Arduino_Logo.svg.png)
 **What is Ardunio?**<br/>
 Arduino is a physical programming platform consisting of an I/O board and a development environment that includes an implementation of the Processing/Wiring language.
